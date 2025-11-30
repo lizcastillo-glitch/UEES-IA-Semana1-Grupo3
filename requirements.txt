@@ -1,0 +1,23 @@
+# ============================================================
+# Requerimientos del Proyecto: Laboratorio 1 - IA UEES
+# Configuración de Entorno y Fundamentos de IA
+# ============================================================
+
+# --- Fundamentos de Datos ---
+numpy==1.26.4
+pandas==2.2.2
+
+# --- Visualización de Datos ---
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.23.0
+
+# --- Machine Learning ---
+scikit-learn==1.5.2
+
+# --- Deep Learning ---
+tensorflow==2.15.0
+
+# --- Utilidades ---
+jupyter==1.0.0
+ipykernel==6.29.4
